@@ -237656,7 +237656,8 @@ zorum
 ~www
 dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB
 dns-query?name=google.com&type=A
-.php
+mcp/transport
+mcp/message.php
 .html
 .txt
 .htm
@@ -245231,6 +245232,7 @@ zufall
 zulu
 zxc
 zzztest
+.php
 MAINTAINERS
 ScriptResource
 LICENSE_AFL
